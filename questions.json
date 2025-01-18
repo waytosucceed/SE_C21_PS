@@ -1,0 +1,232 @@
+{
+  "heading": "Linear Equations",
+  "topics": [
+    {
+      "heading": "Linear Equations",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "If y = 2, find the value of the expression 2y + 7",
+          "options": [
+            { "text": "12" },
+            { "text": "10" },
+            { "text": "13" },
+            { "text": "11" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 2,
+          "question": "Evaluate for z = 3, 2(z + 9)",
+          "options": [
+            { "text": "36" },
+            { "text": "38" },
+            { "text": "24" },
+            { "text": "91" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 3,
+          "question": "Evaluate the polynomial for x = 2 and y = 2,<br>3(x + 4y - 9)",
+          "options": [
+            { "text": "-1" },
+            { "text": "1" },
+            { "text": "3" },
+            { "text": "-3" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 4,
+          "question": "Evaluate for y = 3x, where x = 2 <br> 3xy + 3",
+          "options": [
+            { "text": "40" },
+            { "text": "39" },
+            { "text": "24" },
+            { "text": "20" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 5,
+          "question": "If a = 3, b = 2, find the value of 2a<sup>2</sup> + 3ab.",
+          "options": [
+            { "text": "36" },
+            { "text": "35" },
+            { "text": "32" },
+            { "text": "30" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 6,
+          "question": "If l = 1 and m = n = 2, evaluate the following expression.<br> 2lm + n<sup>2</sup> + 2/m",
+          "options": [
+            { "text": "11" },
+            { "text": "10" },
+            { "text": "9" },
+            { "text": "9" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 7,
+          "question": "Evaluate a(b+c)<sup>2</sup> for a=2, b=2 and c=1.",
+          "options": [
+            { "text": "16" },
+            { "text": "17" },
+            { "text": "18" },
+            { "text": "None of the above" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 8,
+          "question": "Work out an expression and then find the area of a rectangle with length 2a and breadth a, where a=5.",
+          "options": [
+            { "text": "75" },
+            { "text": "50" },
+            { "text": "45" },
+            { "text": "100" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 9,
+          "question": "If x= 1 and y = <sup>1</sup>&frasl;<sub>3</sub>, find 2x + 3x.",
+          "options": [
+            { "text": "2" },
+            { "text": "<sup>2</sup>&frasl;<sub>5</sub>" },
+            { "text": "3" },
+            { "text": "<sup>5</sup>&frasl;<sub>2</sub>" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 10,
+          "question": "Simplify and then solve for x= 2,<br><img width='80%' src='./assests/images/question/1.png'>",
+          "options": [
+            { "text": "0" },
+            { "text": "2" },
+            { "text": "3" },
+            { "text": "4" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 11,
+          "question": "Which of the following is a linear equation in one variable?",
+          "options": [
+            { "text": "4z<sup>2</sup> = 4" },
+            { "text": "x + z = 1" },
+            { "text": "z - 2 = 0" },
+            { "text": "None of the above" }
+          ],
+          "answer": 2
+        },
+        {
+          "questionNo": 12,
+          "question": "Find the value of y.<BR> y + 10 = 0",
+          "options": [
+            { "text": "8" },
+            { "text": "-10" },
+            { "text": "0" },
+            { "text": "10" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 13,
+          "question": "Solve for x<br> 2x + 5 = 9",
+          "options": [
+            { "text": "2" },
+            { "text": "3" },
+            { "text": "5" },
+            { "text": "-5" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 14,
+          "question": "Solve  <sup>x</sup>&frasl;<sub>5</sub> – 5 = 15",
+          "options": [
+            { "text": "40" },
+            { "text": "25" },
+            { "text": "24" },
+            { "text": "50" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 15,
+          "question": "If 4(x + 2) = 20, find the value of x.",
+          "options": [
+            { "text": "6" },
+            { "text": "5" },
+            { "text": "2" },
+            { "text": "3" }
+          ],
+          "answer": 3
+        },
+        {
+          "questionNo": 16,
+          "question": "What is the solution of the following linear equation in one variable?<br> 3x + 5 = 2x + 20",
+          "options": [
+            { "text": "10" },
+            { "text": "15" },
+            { "text": "7" },
+            { "text": "9" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 17,
+          "question": "Which of the following values of x satisfies the equation<br> 5x - 9 = 3x + 9.",
+          "options": [
+            { "text": "x = 7" },
+            { "text": "x = 9" },
+            { "text": "x = 10" },
+            { "text": "None of the above" }
+          ],
+          "answer": 1
+        },
+        {
+          "questionNo": 18,
+          "question": "Solve for the variable m <br><img width='80%' src='./assests/images/question/2.png'>",
+          "options": [
+            { "text": "11" },
+            { "text": "12" },
+            { "text": "14" },
+            { "text": "16" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 19,
+          "question": "Solve <br>2(x + 3) + 2(2x − 1) = 4x + 2.",
+          "options": [
+            { "text": "-1" },
+            { "text": "1" },
+            { "text": "2" },
+            { "text": "3" }
+          ],
+          "answer": 0
+        },
+        {
+          "questionNo": 20,
+          "question": "The sum of three consecutive numbers is 30. If the first number is z, find the value of z.",
+          "options": [
+            { "text": "9" },
+            { "text": "10" },
+            { "text": "11" },
+            { "text": "12" }
+          ],
+          "answer": 0
+        }
+      ]
+      
+      
+    }
+  ]
+}
