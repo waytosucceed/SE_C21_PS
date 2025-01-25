@@ -66,9 +66,9 @@
             { "text": "11" },
             { "text": "10" },
             { "text": "9" },
-            { "text": "9" }
+            { "text": "8" }
           ],
-          "answer": 1
+          "answer": 2
         },
         {
           "questionNo": 7,
@@ -153,10 +153,10 @@
           "options": [
             { "text": "40" },
             { "text": "25" },
-            { "text": "24" },
+            { "text": "100" },
             { "text": "50" }
           ],
-          "answer": 3
+          "answer": 2
         },
         {
           "questionNo": 15,
